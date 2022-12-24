@@ -1,5 +1,5 @@
 name = "lapce-ruff-lsp"
-version = "0.1.0"
+version = "0.1.1"
 author = "abreumatheus"
 display-name = "Python (ruff-lsp)"
 description = "Ruff LSP support for the Lapce editor."
