@@ -1,0 +1,12 @@
+name = "lapce-ruff-lsp"
+version = "0.1.0"
+author = "abreumatheus"
+display-name = "Python (ruff-lsp)"
+description = "Ruff LSP support for the Lapce editor."
+wasm = "bin/lapce-ruff-lsp.wasm"
+icon = "assets/icon.png"
+repository = "https://github.com/abreumatheus/lapce-ruff-lsp"
+
+[activation]
+language = ["python"]
+workspace-contains = ["*/*.py"]
